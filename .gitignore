@@ -1,6 +1,4 @@
 .env
-input/
-output/
 __pycache__/
 *.pyc
 venv/
