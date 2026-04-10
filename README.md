@@ -4,6 +4,14 @@ Generate professional, branded, fillable PDF forms directly from Python — with
 
 *Status: April 2026*
 
+This project is the first half of a two-part cycle:
+
+> **Part 1 — Generate** *(this repo)*: Build a fillable AcroForm PDF from scratch with Python and ReportLab.
+
+> [**Part 2 — Extract**](https://github.com/hasff/python-fillable-pdf-form-extractor): Read a filled AcroForm PDF and extract its data programmatically — without knowing anything about how the form was built.
+
+---
+
 This project is a **production-style example** of something that sounds straightforward but almost never is:
 
 > *"Can't I just export a Word form to PDF?"*
